@@ -1,1 +1,3 @@
-# Shopify
+This Power BI report visualizes Shopify store data to provide insights into sales performance, product trends, customer behavior, and regional analysis. The dashboard includes key metrics such as total revenue, top-selling products, new vs returning customers, and order distribution over time. It is built for easy interaction using slicers and drill-down features to support business decision-making. To use the report, open the shopify dashboard.pbix file in Power BI Desktop. You can refresh the data if connected to an external source.
+<br><br>
+Dataset link: https://docs.google.com/spreadsheets/d/1GeIgZ9hepgFbj4A9y8Szp9CwUPBc6RZx/edit?gid=2091921388#gid=2091921388
